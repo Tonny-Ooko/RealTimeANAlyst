@@ -240,9 +240,9 @@ call-center-hourly-performance-aggregator/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Tonny-Ooko/call-center-hourly-performance-aggregator.git
+git clone https://github.com/Tonny-Ooko/RealTimeANAlyst.git
 
-cd call-center-hourly-performance-aggregator
+cd RealTimeANAlyst
 ```
 
 ---
