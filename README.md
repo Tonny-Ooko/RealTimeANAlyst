@@ -191,7 +191,7 @@ call-center-hourly-performance-aggregator/
 
 ├── Raw Data.csv
 │
-├── aggregator.py
+├── app.py
 │
 ├── hourly_performance_report.csv
 │
@@ -240,7 +240,7 @@ call-center-hourly-performance-aggregator/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/call-center-hourly-performance-aggregator.git
+git clone https://github.com/Tonny-Ooko/call-center-hourly-performance-aggregator.git
 
 cd call-center-hourly-performance-aggregator
 ```
@@ -282,7 +282,7 @@ pip install -r requirements.txt
 ### Execute Pipeline
 
 ```bash
-python aggregator.py
+python app.py
 ```
 
 ---
